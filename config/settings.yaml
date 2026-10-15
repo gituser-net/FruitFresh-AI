@@ -1,0 +1,26 @@
+
+project:
+  name: FruitFresh-AI
+  environment: development
+
+vision:
+  image_size: 224
+  classes:
+    - Fresh
+    - Ripening
+    - Visible Rot
+    - Uncertain
+  confidence_threshold: 0.85
+
+sensors:
+  temperature_warning_c: 30.0
+  humidity_warning_percent: 85.0
+  gas_warning_raw: null
+
+alerts:
+  enabled: false
+  cooldown_minutes: 30
+
+cloud:
+  provider: adafruit_io
+  enabled: false

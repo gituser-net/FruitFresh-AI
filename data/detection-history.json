@@ -1,0 +1,8430 @@
+[
+  {
+    "id": "1791689586275-joh7yt",
+    "timestamp": "2026-10-11T03:33:06.275Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.33290380239486694
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689588403-dpeoow",
+    "timestamp": "2026-10-11T03:33:08.403Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.5135344862937927
+      },
+      {
+        "class": "overripe",
+        "confidence": 0.3191763758659363
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791689599278-3tycu9",
+    "timestamp": "2026-10-11T03:33:19.278Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8759362101554871
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.835793673992157
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791689601414-w6kruk",
+    "timestamp": "2026-10-11T03:33:21.414Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9718530774116516
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.8907789587974548
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791689603596-p45cvo",
+    "timestamp": "2026-10-11T03:33:23.596Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9938593506813049
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.7126917839050293
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791689605840-ofy91o",
+    "timestamp": "2026-10-11T03:33:25.840Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9916718602180481
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.6461310982704163
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791689608076-yuesl8",
+    "timestamp": "2026-10-11T03:33:28.076Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9849318265914917
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689614487-uln6t2",
+    "timestamp": "2026-10-11T03:33:34.487Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9857983589172363
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689616700-7l7s6t",
+    "timestamp": "2026-10-11T03:33:36.700Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9724535346031189
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689618812-hs30cb",
+    "timestamp": "2026-10-11T03:33:38.812Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9386928677558899
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689621040-6bambo",
+    "timestamp": "2026-10-11T03:33:41.040Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.969250500202179
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689625222-r561gw",
+    "timestamp": "2026-10-11T03:33:45.222Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9526610970497131
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689627278-plxl35",
+    "timestamp": "2026-10-11T03:33:47.278Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8083520531654358
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689629515-7989as",
+    "timestamp": "2026-10-11T03:33:49.515Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.34525996446609497
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689635172-dgj9fg",
+    "timestamp": "2026-10-11T03:33:55.172Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8474401831626892
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689637357-5en6ko",
+    "timestamp": "2026-10-11T03:33:57.357Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.865486204624176
+      },
+      {
+        "class": "overripe",
+        "confidence": 0.6323367953300476
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791689641166-hlprxa",
+    "timestamp": "2026-10-11T03:34:01.166Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.8336061835289001
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689645311-b3q2az",
+    "timestamp": "2026-10-11T03:34:05.311Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.8246809244155884
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689647440-bqehpo",
+    "timestamp": "2026-10-11T03:34:07.440Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8993216753005981
+      },
+      {
+        "class": "overripe",
+        "confidence": 0.8938753604888916
+      },
+      {
+        "class": "overripe",
+        "confidence": 0.404124915599823
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791689649527-nyvnfs",
+    "timestamp": "2026-10-11T03:34:09.527Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.5369281768798828
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689651766-37ve5s",
+    "timestamp": "2026-10-11T03:34:11.766Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.6840870976448059
+      },
+      {
+        "class": "rotten",
+        "confidence": 0.6462916731834412
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791689653848-wa5dte",
+    "timestamp": "2026-10-11T03:34:13.848Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.6299387216567993
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689655916-ypg35m",
+    "timestamp": "2026-10-11T03:34:15.916Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8422623872756958
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689658003-vvp1t3",
+    "timestamp": "2026-10-11T03:34:18.003Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.7004345059394836
+      },
+      {
+        "class": "overripe",
+        "confidence": 0.523997962474823
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791689660084-hiyxzm",
+    "timestamp": "2026-10-11T03:34:20.084Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.6299599409103394
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791689662316-gain45",
+    "timestamp": "2026-10-11T03:34:22.316Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.8337271213531494
+      },
+      {
+        "class": "overripe",
+        "confidence": 0.7235925197601318
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791894515976-uyhhsu",
+    "timestamp": "2026-10-13T12:28:35.976Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.5841717720031738
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894518071-u1a9e6",
+    "timestamp": "2026-10-13T12:28:38.071Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.3838370442390442
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.36136776208877563
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791894522120-hxqpsi",
+    "timestamp": "2026-10-13T12:28:42.120Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.7006322145462036
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894540042-z6j0s6",
+    "timestamp": "2026-10-13T12:29:00.042Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.6149468421936035
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894584195-dr2j8j",
+    "timestamp": "2026-10-13T12:29:44.195Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9723973870277405
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894586597-6o68t5",
+    "timestamp": "2026-10-13T12:29:46.597Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.96049565076828
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894591075-4bdwlf",
+    "timestamp": "2026-10-13T12:29:51.075Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9661882519721985
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894593154-s7id70",
+    "timestamp": "2026-10-13T12:29:53.154Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8105199933052063
+      },
+      {
+        "class": "rotten",
+        "confidence": 0.7446781396865845
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791894595225-uw9wgd",
+    "timestamp": "2026-10-13T12:29:55.225Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.545496940612793
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894680377-ylnkdy",
+    "timestamp": "2026-10-13T12:31:20.377Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.5729525089263916
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894682336-c1oitg",
+    "timestamp": "2026-10-13T12:31:22.336Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.41490328311920166
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894684277-ta2xgy",
+    "timestamp": "2026-10-13T12:31:24.277Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.3454263210296631
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894686269-cskjsx",
+    "timestamp": "2026-10-13T12:31:26.269Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.2725074291229248
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894688356-indj6h",
+    "timestamp": "2026-10-13T12:31:28.356Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.3134778141975403
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894690428-8e8k63",
+    "timestamp": "2026-10-13T12:31:30.428Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.2847138047218323
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.24600279331207275
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791894692378-n11c1s",
+    "timestamp": "2026-10-13T12:31:32.378Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.23635530471801758
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.22741961479187012
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791894694310-1iwhrm",
+    "timestamp": "2026-10-13T12:31:34.310Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.37023425102233887
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894696349-negh98",
+    "timestamp": "2026-10-13T12:31:36.349Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.42792272567749023
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894704178-uygsxo",
+    "timestamp": "2026-10-13T12:31:44.178Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.3860960006713867
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894706261-qp9ya4",
+    "timestamp": "2026-10-13T12:31:46.261Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.5695762038230896
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.39041703939437866
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791894708346-lbn8a4",
+    "timestamp": "2026-10-13T12:31:48.346Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.6118311882019043
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894710364-5dlrlu",
+    "timestamp": "2026-10-13T12:31:50.364Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.540712833404541
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.4198361039161682
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791894712345-4vtmiq",
+    "timestamp": "2026-10-13T12:31:52.345Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.449537456035614
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894715058-gu1150",
+    "timestamp": "2026-10-13T12:31:55.058Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.651090145111084
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894717074-z1s4bd",
+    "timestamp": "2026-10-13T12:31:57.074Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.44919759035110474
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894719066-cytcbk",
+    "timestamp": "2026-10-13T12:31:59.066Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.45855337381362915
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894721138-crfwdm",
+    "timestamp": "2026-10-13T12:32:01.138Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.46341490745544434
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894723393-rfgdqu",
+    "timestamp": "2026-10-13T12:32:03.393Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.49090129137039185
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.4042080044746399
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791894725469-dn3s21",
+    "timestamp": "2026-10-13T12:32:05.469Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.4011039137840271
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894727547-0cj9g4",
+    "timestamp": "2026-10-13T12:32:07.547Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.32618623971939087
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894737629-61yxo4",
+    "timestamp": "2026-10-13T12:32:17.629Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9886246919631958
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894769147-jt14dx",
+    "timestamp": "2026-10-13T12:32:49.147Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9666602611541748
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894773304-uc4rhl",
+    "timestamp": "2026-10-13T12:32:53.304Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.7616446614265442
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894822061-o1ruih",
+    "timestamp": "2026-10-13T12:33:42.061Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9653692841529846
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894824037-gtjwyo",
+    "timestamp": "2026-10-13T12:33:44.037Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9576995372772217
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894826096-b02xh7",
+    "timestamp": "2026-10-13T12:33:46.096Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9667923450469971
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894828019-86vdfa",
+    "timestamp": "2026-10-13T12:33:48.019Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9547519087791443
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894830095-e2c6qp",
+    "timestamp": "2026-10-13T12:33:50.095Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9626924991607666
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894832083-dzoaom",
+    "timestamp": "2026-10-13T12:33:52.083Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9652162194252014
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894834098-iq59py",
+    "timestamp": "2026-10-13T12:33:54.098Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9594407081604004
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894843965-5qdqfn",
+    "timestamp": "2026-10-13T12:34:03.965Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9508740305900574
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894845976-z6giab",
+    "timestamp": "2026-10-13T12:34:05.976Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9674125909805298
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894847928-fvw9om",
+    "timestamp": "2026-10-13T12:34:07.928Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9607141017913818
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894849870-j0zjvj",
+    "timestamp": "2026-10-13T12:34:09.870Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.6473187208175659
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894898902-3k86f4",
+    "timestamp": "2026-10-13T12:34:58.902Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7360687255859375
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894900833-flp1fn",
+    "timestamp": "2026-10-13T12:35:00.833Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.5109382271766663
+      },
+      {
+        "class": "rotten",
+        "confidence": 0.13964837789535522
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791894902903-2h5nsx",
+    "timestamp": "2026-10-13T12:35:02.903Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.24210643768310547
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894904856-37hl3f",
+    "timestamp": "2026-10-13T12:35:04.856Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.6664823293685913
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894906900-vcc0vy",
+    "timestamp": "2026-10-13T12:35:06.900Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8059059381484985
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894908826-3bmnfu",
+    "timestamp": "2026-10-13T12:35:08.826Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7390138506889343
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894910750-jqxhn2",
+    "timestamp": "2026-10-13T12:35:10.750Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8234241604804993
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894912825-pvsl22",
+    "timestamp": "2026-10-13T12:35:12.825Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.6509966850280762
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894916683-i4eos8",
+    "timestamp": "2026-10-13T12:35:16.683Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.44061195850372314
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894918741-mis9o0",
+    "timestamp": "2026-10-13T12:35:18.741Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.6833452582359314
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894921141-0mgx9u",
+    "timestamp": "2026-10-13T12:35:21.141Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.4000256657600403
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894923224-0y7q50",
+    "timestamp": "2026-10-13T12:35:23.224Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.871503472328186
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894925284-0bqh5k",
+    "timestamp": "2026-10-13T12:35:25.284Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7764178514480591
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894927225-3mki2v",
+    "timestamp": "2026-10-13T12:35:27.225Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.3568819761276245
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894930335-ar4u5j",
+    "timestamp": "2026-10-13T12:35:30.335Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.558688759803772
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791894932332-j5k7bo",
+    "timestamp": "2026-10-13T12:35:32.332Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9388684034347534
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895083388-j1j3if",
+    "timestamp": "2026-10-13T12:38:03.388Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9880200028419495
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895085426-bpkt3r",
+    "timestamp": "2026-10-13T12:38:05.426Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8360000252723694
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895087540-n2bpli",
+    "timestamp": "2026-10-13T12:38:07.540Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9893006682395935
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.8134296536445618
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791895089574-wp5bam",
+    "timestamp": "2026-10-13T12:38:09.574Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9899985194206238
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.6301282048225403
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791895091698-9mjvck",
+    "timestamp": "2026-10-13T12:38:11.698Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9921585321426392
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.4099031686782837
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791895093704-ts2xea",
+    "timestamp": "2026-10-13T12:38:13.704Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9946656227111816
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895095683-fb3hy8",
+    "timestamp": "2026-10-13T12:38:15.683Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9972586631774902
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895101795-t9ariu",
+    "timestamp": "2026-10-13T12:38:21.795Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9910451173782349
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895105941-ire6hj",
+    "timestamp": "2026-10-13T12:38:25.941Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9846656322479248
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895108024-xuw7tm",
+    "timestamp": "2026-10-13T12:38:28.024Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9944143295288086
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895126593-nv161l",
+    "timestamp": "2026-10-13T12:38:46.593Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9941655397415161
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895153303-0ltc5r",
+    "timestamp": "2026-10-13T12:39:13.303Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9955780506134033
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895155327-aevj5b",
+    "timestamp": "2026-10-13T12:39:15.327Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9940098524093628
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895159228-8g0h2n",
+    "timestamp": "2026-10-13T12:39:19.228Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9793349504470825
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895165108-b9ti87",
+    "timestamp": "2026-10-13T12:39:25.108Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9875441789627075
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895181783-mvc724",
+    "timestamp": "2026-10-13T12:39:41.783Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9894767999649048
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895191867-qty7te",
+    "timestamp": "2026-10-13T12:39:51.867Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9903156161308289
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.9693111777305603
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791895193814-zwye4k",
+    "timestamp": "2026-10-13T12:39:53.814Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9933738708496094
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895199909-tob3w3",
+    "timestamp": "2026-10-13T12:39:59.909Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9962265491485596
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791895201900-h4tc2z",
+    "timestamp": "2026-10-13T12:40:01.900Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9952108263969421
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.9553866386413574
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791895203866-6kitfo",
+    "timestamp": "2026-10-13T12:40:03.866Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9964132905006409
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.9699814319610596
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791895209974-4phdfg",
+    "timestamp": "2026-10-13T12:40:09.974Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9910906553268433
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899563723-7b2o6u",
+    "timestamp": "2026-10-13T13:52:43.723Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.620621383190155
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899565660-q4ipbg",
+    "timestamp": "2026-10-13T13:52:45.660Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9202744364738464
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899567657-j5ievo",
+    "timestamp": "2026-10-13T13:52:47.657Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.7078215479850769
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899577574-hwgbvl",
+    "timestamp": "2026-10-13T13:52:57.574Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9714056849479675
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899595971-f8awla",
+    "timestamp": "2026-10-13T13:53:15.971Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.41764605045318604
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899597965-u7a49i",
+    "timestamp": "2026-10-13T13:53:17.965Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.5317366719245911
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899624612-dk90ns",
+    "timestamp": "2026-10-13T13:53:44.612Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.8533702492713928
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899630851-qx24b3",
+    "timestamp": "2026-10-13T13:53:50.851Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.6459680199623108
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899634856-o5t7pw",
+    "timestamp": "2026-10-13T13:53:54.856Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.7271629571914673
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899636938-lp5cxt",
+    "timestamp": "2026-10-13T13:53:56.938Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.5474488735198975
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899640946-gbmfed",
+    "timestamp": "2026-10-13T13:54:00.946Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.6674216389656067
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899643008-y9taiu",
+    "timestamp": "2026-10-13T13:54:03.008Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.5740578174591064
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899645088-labecy",
+    "timestamp": "2026-10-13T13:54:05.088Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.44727039337158203
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899647334-o4z7kl",
+    "timestamp": "2026-10-13T13:54:07.334Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.6842253804206848
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899649408-vz7wqt",
+    "timestamp": "2026-10-13T13:54:09.408Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.5154247283935547
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899651335-nu2mug",
+    "timestamp": "2026-10-13T13:54:11.335Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.676251232624054
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899653249-27jdbf",
+    "timestamp": "2026-10-13T13:54:13.249Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6681999564170837
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899655167-dc9r7w",
+    "timestamp": "2026-10-13T13:54:15.167Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.42337948083877563
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899657087-3rch3k",
+    "timestamp": "2026-10-13T13:54:17.087Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.30375486612319946
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899659006-offi2k",
+    "timestamp": "2026-10-13T13:54:19.006Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.32802075147628784
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899716348-8m25xj",
+    "timestamp": "2026-10-13T13:55:16.348Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.987472414970398
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899718369-kjbavm",
+    "timestamp": "2026-10-13T13:55:18.369Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9848155975341797
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899720324-g3412s",
+    "timestamp": "2026-10-13T13:55:20.324Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9905847907066345
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899735102-r2ixx1",
+    "timestamp": "2026-10-13T13:55:35.103Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9832764863967896
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899739188-qxdjz4",
+    "timestamp": "2026-10-13T13:55:39.188Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9885474443435669
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899749417-jkw4ya",
+    "timestamp": "2026-10-13T13:55:49.417Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9765152931213379
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899755498-rvvkdu",
+    "timestamp": "2026-10-13T13:55:55.498Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9737217426300049
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899759555-ukiyl4",
+    "timestamp": "2026-10-13T13:55:59.555Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.9061194062232971
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899761502-i7tnyk",
+    "timestamp": "2026-10-13T13:56:01.502Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.9000195860862732
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899763449-z1n23o",
+    "timestamp": "2026-10-13T13:56:03.449Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.8888762593269348
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899765446-66x4pq",
+    "timestamp": "2026-10-13T13:56:05.446Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.8969280123710632
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899767493-nmgi88",
+    "timestamp": "2026-10-13T13:56:07.493Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "overripe",
+        "confidence": 0.9148232340812683
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899858848-aybpcm",
+    "timestamp": "2026-10-13T13:57:38.848Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.511130154132843
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899865080-spdpcn",
+    "timestamp": "2026-10-13T13:57:45.080Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.57692551612854
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899874999-jj2lib",
+    "timestamp": "2026-10-13T13:57:54.999Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9739745259284973
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899903804-lafuw3",
+    "timestamp": "2026-10-13T13:58:23.804Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8356266617774963
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899967490-p0v95q",
+    "timestamp": "2026-10-13T13:59:27.490Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.629315972328186
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899969402-3sznw3",
+    "timestamp": "2026-10-13T13:59:29.402Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.4629960060119629
+      },
+      {
+        "class": "rotten",
+        "confidence": 0.4329147934913635
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791899971320-c2nkqv",
+    "timestamp": "2026-10-13T13:59:31.320Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.5820390582084656
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899973256-0caetn",
+    "timestamp": "2026-10-13T13:59:33.256Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.97405606508255
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899979481-hcuke7",
+    "timestamp": "2026-10-13T13:59:39.481Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9511816501617432
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899989082-7837my",
+    "timestamp": "2026-10-13T13:59:49.082Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.897693395614624
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899991160-gg3oc8",
+    "timestamp": "2026-10-13T13:59:51.160Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9944992065429688
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899995012-g9xhpm",
+    "timestamp": "2026-10-13T13:59:55.012Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9558272957801819
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899997081-akvce0",
+    "timestamp": "2026-10-13T13:59:57.081Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8979218602180481
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791899999166-7ut300",
+    "timestamp": "2026-10-13T13:59:59.166Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9695555567741394
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900001181-3afnro",
+    "timestamp": "2026-10-13T14:00:01.181Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9631116390228271
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900005081-cametw",
+    "timestamp": "2026-10-13T14:00:05.081Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.4986187815666199
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900555322-5bih7x",
+    "timestamp": "2026-10-13T14:09:15.322Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9929662942886353
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900559353-b1m3um",
+    "timestamp": "2026-10-13T14:09:19.353Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.7751517295837402
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900561424-j9o7qk",
+    "timestamp": "2026-10-13T14:09:21.424Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9880750775337219
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900563483-ey1wtm",
+    "timestamp": "2026-10-13T14:09:23.483Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9652506113052368
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900565595-jo8q51",
+    "timestamp": "2026-10-13T14:09:25.595Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9879818558692932
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900589242-k05fco",
+    "timestamp": "2026-10-13T14:09:49.242Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9741782546043396
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900593566-orkxsi",
+    "timestamp": "2026-10-13T14:09:53.566Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9807277917861938
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900595675-51dkch",
+    "timestamp": "2026-10-13T14:09:55.675Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.9190194010734558
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900597728-8z8rff",
+    "timestamp": "2026-10-13T14:09:57.728Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.928541898727417
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900601880-ylqg3w",
+    "timestamp": "2026-10-13T14:10:01.880Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9244712591171265
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900604012-8xo3sa",
+    "timestamp": "2026-10-13T14:10:04.012Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9327807426452637
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900606305-54ywcy",
+    "timestamp": "2026-10-13T14:10:06.306Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.941010594367981
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900608285-hxhytm",
+    "timestamp": "2026-10-13T14:10:08.285Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8703063726425171
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900610344-muaz6i",
+    "timestamp": "2026-10-13T14:10:10.344Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.887532651424408
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900612287-082jrp",
+    "timestamp": "2026-10-13T14:10:12.287Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9170728325843811
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900614325-8g0zbw",
+    "timestamp": "2026-10-13T14:10:14.325Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9070843458175659
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900616445-9qwhm9",
+    "timestamp": "2026-10-13T14:10:16.445Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8496387004852295
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900618518-oup7ke",
+    "timestamp": "2026-10-13T14:10:18.518Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8981680870056152
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900620561-n4xes0",
+    "timestamp": "2026-10-13T14:10:20.561Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9235453009605408
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900622684-dqejkq",
+    "timestamp": "2026-10-13T14:10:22.684Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9053649306297302
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900624765-mbhr5r",
+    "timestamp": "2026-10-13T14:10:24.765Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8883987069129944
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900626842-70cff6",
+    "timestamp": "2026-10-13T14:10:26.842Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8607692718505859
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900628924-s5tt0s",
+    "timestamp": "2026-10-13T14:10:28.924Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8711927533149719
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900631005-v02m0v",
+    "timestamp": "2026-10-13T14:10:31.005Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9005174040794373
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900633078-k2pkxe",
+    "timestamp": "2026-10-13T14:10:33.078Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9090258479118347
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900635128-rrpktn",
+    "timestamp": "2026-10-13T14:10:35.128Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8631008267402649
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900637244-7edhgs",
+    "timestamp": "2026-10-13T14:10:37.244Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8366978764533997
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900639322-kw9lw0",
+    "timestamp": "2026-10-13T14:10:39.322Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8886925578117371
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900641372-fbb810",
+    "timestamp": "2026-10-13T14:10:41.372Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8978421092033386
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900643409-a4u5fi",
+    "timestamp": "2026-10-13T14:10:43.409Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.915716826915741
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900645394-odhacf",
+    "timestamp": "2026-10-13T14:10:45.394Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9025415182113647
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900647477-ac6jyp",
+    "timestamp": "2026-10-13T14:10:47.477Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8925046920776367
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900649582-j7z8db",
+    "timestamp": "2026-10-13T14:10:49.582Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8810011744499207
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900651680-nhsjed",
+    "timestamp": "2026-10-13T14:10:51.680Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8471733331680298
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900653877-g3goho",
+    "timestamp": "2026-10-13T14:10:53.877Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9039249420166016
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900660296-33w4wq",
+    "timestamp": "2026-10-13T14:11:00.296Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8833118677139282
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900662366-whvur8",
+    "timestamp": "2026-10-13T14:11:02.366Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9030998349189758
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900664615-91b9uv",
+    "timestamp": "2026-10-13T14:11:04.615Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8716366291046143
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900666686-bfvr92",
+    "timestamp": "2026-10-13T14:11:06.686Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8792873620986938
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900668756-6m7u9a",
+    "timestamp": "2026-10-13T14:11:08.756Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8665494918823242
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900670844-kktf23",
+    "timestamp": "2026-10-13T14:11:10.844Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9116547107696533
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900672867-4anrzz",
+    "timestamp": "2026-10-13T14:11:12.867Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9036109447479248
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900675085-blav5m",
+    "timestamp": "2026-10-13T14:11:15.085Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8500925898551941
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900677087-asc5n7",
+    "timestamp": "2026-10-13T14:11:17.087Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9082839488983154
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900679321-8tz6f6",
+    "timestamp": "2026-10-13T14:11:19.321Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8884827494621277
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900681355-itl9g3",
+    "timestamp": "2026-10-13T14:11:21.355Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8642499446868896
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900683514-d27q3u",
+    "timestamp": "2026-10-13T14:11:23.514Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8874624967575073
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900685588-gnntog",
+    "timestamp": "2026-10-13T14:11:25.588Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8658950924873352
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900687598-cm4zbe",
+    "timestamp": "2026-10-13T14:11:27.598Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9085459113121033
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900689680-xbcqvr",
+    "timestamp": "2026-10-13T14:11:29.680Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8747931718826294
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900691707-igiks8",
+    "timestamp": "2026-10-13T14:11:31.707Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8758035898208618
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900693775-9r4bvj",
+    "timestamp": "2026-10-13T14:11:33.775Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9181213974952698
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900697880-jmjbtq",
+    "timestamp": "2026-10-13T14:11:37.880Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8845927119255066
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900704126-nxovmx",
+    "timestamp": "2026-10-13T14:11:44.126Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8984031081199646
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900706202-u0lgq9",
+    "timestamp": "2026-10-13T14:11:46.202Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8620010614395142
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900708282-b9gr47",
+    "timestamp": "2026-10-13T14:11:48.282Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8733434677124023
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900712314-gt4jip",
+    "timestamp": "2026-10-13T14:11:52.314Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8531079292297363
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900714346-l7uih5",
+    "timestamp": "2026-10-13T14:11:54.346Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9080172181129456
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900716407-o0cgwc",
+    "timestamp": "2026-10-13T14:11:56.407Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8878985643386841
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900718435-ym3lf1",
+    "timestamp": "2026-10-13T14:11:58.435Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8566179871559143
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900720530-quus20",
+    "timestamp": "2026-10-13T14:12:00.530Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8700348734855652
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900722537-2e32i4",
+    "timestamp": "2026-10-13T14:12:02.537Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8926768898963928
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900728785-36b0g9",
+    "timestamp": "2026-10-13T14:12:08.785Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.882753312587738
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900730877-htqdpf",
+    "timestamp": "2026-10-13T14:12:10.877Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8700813055038452
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900734999-86nrdk",
+    "timestamp": "2026-10-13T14:12:14.999Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9297541975975037
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900737232-gq08eq",
+    "timestamp": "2026-10-13T14:12:17.232Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9051160216331482
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900739308-uu0lv0",
+    "timestamp": "2026-10-13T14:12:19.308Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9160383343696594
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900741389-0xc3v1",
+    "timestamp": "2026-10-13T14:12:21.389Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9015811085700989
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900743408-mslbs6",
+    "timestamp": "2026-10-13T14:12:23.408Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9219637513160706
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900747465-5wfntz",
+    "timestamp": "2026-10-13T14:12:27.465Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9018945693969727
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900749545-gch973",
+    "timestamp": "2026-10-13T14:12:29.545Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9129522442817688
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900753725-uzk8cl",
+    "timestamp": "2026-10-13T14:12:33.725Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9349176287651062
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900757807-lawk1z",
+    "timestamp": "2026-10-13T14:12:37.807Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9180752635002136
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900763892-fohkyg",
+    "timestamp": "2026-10-13T14:12:43.892Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9367008805274963
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900765953-em0904",
+    "timestamp": "2026-10-13T14:12:45.953Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9188268780708313
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900770191-xb69n8",
+    "timestamp": "2026-10-13T14:12:50.191Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9408122897148132
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900772268-n1oo08",
+    "timestamp": "2026-10-13T14:12:52.268Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9205579161643982
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900776423-d8wdb6",
+    "timestamp": "2026-10-13T14:12:56.423Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9274773597717285
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900782493-3cqiv7",
+    "timestamp": "2026-10-13T14:13:02.493Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9194262623786926
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900786662-sexnr8",
+    "timestamp": "2026-10-13T14:13:06.662Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9339371919631958
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900790825-w801ng",
+    "timestamp": "2026-10-13T14:13:10.825Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9360464811325073
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900794833-0b9hwe",
+    "timestamp": "2026-10-13T14:13:14.833Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9324608445167542
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900796922-yrbpb5",
+    "timestamp": "2026-10-13T14:13:16.922Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9068653583526611
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900799153-kldbyn",
+    "timestamp": "2026-10-13T14:13:19.153Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8911322951316833
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900801176-o5c0w3",
+    "timestamp": "2026-10-13T14:13:21.176Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9077292084693909
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900803264-xxexqe",
+    "timestamp": "2026-10-13T14:13:23.264Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9204005599021912
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900805359-xa9z3j",
+    "timestamp": "2026-10-13T14:13:25.359Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9326115846633911
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900807473-2xy4oa",
+    "timestamp": "2026-10-13T14:13:27.473Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9163206815719604
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900809555-zjwioa",
+    "timestamp": "2026-10-13T14:13:29.555Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9314655065536499
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900813675-beucoo",
+    "timestamp": "2026-10-13T14:13:33.675Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8981103301048279
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900815730-9mtec0",
+    "timestamp": "2026-10-13T14:13:35.730Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9440234303474426
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900817773-ewxgce",
+    "timestamp": "2026-10-13T14:13:37.773Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.910650372505188
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900819843-chksup",
+    "timestamp": "2026-10-13T14:13:39.843Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8975759148597717
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900821857-eh5fg2",
+    "timestamp": "2026-10-13T14:13:41.857Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9262315034866333
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900823949-f7s1yv",
+    "timestamp": "2026-10-13T14:13:43.949Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.92061448097229
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900828030-ufm622",
+    "timestamp": "2026-10-13T14:13:48.030Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9329549074172974
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900830201-h53jsh",
+    "timestamp": "2026-10-13T14:13:50.201Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9247223734855652
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900832432-2xpag7",
+    "timestamp": "2026-10-13T14:13:52.432Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9127084016799927
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900834454-g4rfc9",
+    "timestamp": "2026-10-13T14:13:54.454Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9225788116455078
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900840759-hf6aky",
+    "timestamp": "2026-10-13T14:14:00.759Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.90633624792099
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900842833-ybvxxg",
+    "timestamp": "2026-10-13T14:14:02.833Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9302040338516235
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900844858-6ne8uu",
+    "timestamp": "2026-10-13T14:14:04.858Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9179502725601196
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900846994-44wdsz",
+    "timestamp": "2026-10-13T14:14:06.994Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9141642451286316
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900855318-wf2rwy",
+    "timestamp": "2026-10-13T14:14:15.318Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8725084662437439
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900857739-r8jyr0",
+    "timestamp": "2026-10-13T14:14:17.739Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9073585867881775
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900859809-qkr1mr",
+    "timestamp": "2026-10-13T14:14:19.809Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9235679507255554
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900863920-rabj8g",
+    "timestamp": "2026-10-13T14:14:23.920Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8720458745956421
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900866039-g2kxxt",
+    "timestamp": "2026-10-13T14:14:26.039Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9146245718002319
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900868130-0vj6mv",
+    "timestamp": "2026-10-13T14:14:28.130Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9223633408546448
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900870130-4xajf7",
+    "timestamp": "2026-10-13T14:14:30.130Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9109162092208862
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900874150-wrh58g",
+    "timestamp": "2026-10-13T14:14:34.150Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9307732582092285
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900876183-4bnnal",
+    "timestamp": "2026-10-13T14:14:36.183Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9113372564315796
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900878266-ymvs7c",
+    "timestamp": "2026-10-13T14:14:38.266Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.873079776763916
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900880352-wn8hoc",
+    "timestamp": "2026-10-13T14:14:40.352Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8896785974502563
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900882516-e7xc6y",
+    "timestamp": "2026-10-13T14:14:42.516Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9172581434249878
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900884603-pr4vgr",
+    "timestamp": "2026-10-13T14:14:44.603Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8828405737876892
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900886674-g1mxh1",
+    "timestamp": "2026-10-13T14:14:46.674Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9225048422813416
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900888824-w07rgf",
+    "timestamp": "2026-10-13T14:14:48.824Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8972353935241699
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900894891-dbi4v6",
+    "timestamp": "2026-10-13T14:14:54.891Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8842638731002808
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900899079-bu5hwg",
+    "timestamp": "2026-10-13T14:14:59.079Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8929517865180969
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900901178-5rzwnv",
+    "timestamp": "2026-10-13T14:15:01.178Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9132020473480225
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900903181-lztazr",
+    "timestamp": "2026-10-13T14:15:03.181Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.875188410282135
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900905239-ipyidr",
+    "timestamp": "2026-10-13T14:15:05.239Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8872764706611633
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900907318-gv647c",
+    "timestamp": "2026-10-13T14:15:07.318Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8845810890197754
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900909364-a3cggd",
+    "timestamp": "2026-10-13T14:15:09.364Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9118527173995972
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900911367-fkxq0e",
+    "timestamp": "2026-10-13T14:15:11.367Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8968276977539062
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900915485-a2svj3",
+    "timestamp": "2026-10-13T14:15:15.485Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8792610764503479
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900918056-4eujer",
+    "timestamp": "2026-10-13T14:15:18.056Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8988052010536194
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900920042-puqh2h",
+    "timestamp": "2026-10-13T14:15:20.042Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8628392815589905
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900922112-dljl4x",
+    "timestamp": "2026-10-13T14:15:22.112Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8396234512329102
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900925082-xd6w9e",
+    "timestamp": "2026-10-13T14:15:25.082Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8937535285949707
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900929410-l77h81",
+    "timestamp": "2026-10-13T14:15:29.410Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8776406049728394
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900932278-d61rk6",
+    "timestamp": "2026-10-13T14:15:32.278Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8943025469779968
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900935166-gejirf",
+    "timestamp": "2026-10-13T14:15:35.166Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9030636548995972
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900938356-f8ol2v",
+    "timestamp": "2026-10-13T14:15:38.356Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9214692115783691
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900941078-9iefyv",
+    "timestamp": "2026-10-13T14:15:41.078Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8763460516929626
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900943156-9g3at1",
+    "timestamp": "2026-10-13T14:15:43.156Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8891666531562805
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900946371-k3b7zv",
+    "timestamp": "2026-10-13T14:15:46.371Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.858642041683197
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900949087-x1xgl0",
+    "timestamp": "2026-10-13T14:15:49.087Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8953089714050293
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900951125-xfzesx",
+    "timestamp": "2026-10-13T14:15:51.125Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8909278512001038
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900956095-25c5gc",
+    "timestamp": "2026-10-13T14:15:56.095Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.873003363609314
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900958133-3xc7zt",
+    "timestamp": "2026-10-13T14:15:58.133Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9007672071456909
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900961055-zb2zyr",
+    "timestamp": "2026-10-13T14:16:01.055Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8797683715820312
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900963091-m7bqw8",
+    "timestamp": "2026-10-13T14:16:03.091Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8497630953788757
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900966037-erf4sw",
+    "timestamp": "2026-10-13T14:16:06.037Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.887483537197113
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900968115-yvncfd",
+    "timestamp": "2026-10-13T14:16:08.115Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.868757426738739
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900975479-dlvogj",
+    "timestamp": "2026-10-13T14:16:15.479Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8879774212837219
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900978061-xwvigy",
+    "timestamp": "2026-10-13T14:16:18.061Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8701470494270325
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900980111-kc2uav",
+    "timestamp": "2026-10-13T14:16:20.111Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8539865016937256
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900983890-j4tm95",
+    "timestamp": "2026-10-13T14:16:23.890Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8926564455032349
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900986035-3c669p",
+    "timestamp": "2026-10-13T14:16:26.035Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9112092852592468
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900988045-b2zuzj",
+    "timestamp": "2026-10-13T14:16:28.045Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.894961953163147
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900990154-nmwse0",
+    "timestamp": "2026-10-13T14:16:30.154Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8728683590888977
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900993067-kr1z2z",
+    "timestamp": "2026-10-13T14:16:33.067Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8596001267433167
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900997075-zbf884",
+    "timestamp": "2026-10-13T14:16:37.075Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8325555920600891
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791900999064-aet0ah",
+    "timestamp": "2026-10-13T14:16:39.064Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.848304271697998
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901001075-bvqu86",
+    "timestamp": "2026-10-13T14:16:41.075Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.7934346795082092
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901003152-lwmu9u",
+    "timestamp": "2026-10-13T14:16:43.152Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8498539924621582
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901006186-s6yhlk",
+    "timestamp": "2026-10-13T14:16:46.186Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8783146739006042
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901012128-s6qg6r",
+    "timestamp": "2026-10-13T14:16:52.128Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8610832095146179
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901016116-gk5l3x",
+    "timestamp": "2026-10-13T14:16:56.116Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8872652649879456
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901019237-8m1c39",
+    "timestamp": "2026-10-13T14:16:59.237Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8687595725059509
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901022140-wzdg57",
+    "timestamp": "2026-10-13T14:17:02.140Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8644881844520569
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901025905-6m0mpl",
+    "timestamp": "2026-10-13T14:17:05.905Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.83460932970047
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901028115-4yol5z",
+    "timestamp": "2026-10-13T14:17:08.115Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8750567436218262
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901031055-gqpzb7",
+    "timestamp": "2026-10-13T14:17:11.055Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.842848002910614
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901033071-34le18",
+    "timestamp": "2026-10-13T14:17:13.071Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8742505311965942
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901035856-27dzxj",
+    "timestamp": "2026-10-13T14:17:15.856Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8480728268623352
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901038284-klz9oj",
+    "timestamp": "2026-10-13T14:17:18.284Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8328739404678345
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901041082-bzo0c4",
+    "timestamp": "2026-10-13T14:17:21.082Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8725183010101318
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901043154-4lve8n",
+    "timestamp": "2026-10-13T14:17:23.154Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8392114043235779
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901046037-fg4840",
+    "timestamp": "2026-10-13T14:17:26.037Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.87645024061203
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901048050-wz2sik",
+    "timestamp": "2026-10-13T14:17:28.050Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8862082362174988
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901050130-3t6cfq",
+    "timestamp": "2026-10-13T14:17:30.130Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.845421552658081
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901053078-9r9ild",
+    "timestamp": "2026-10-13T14:17:33.078Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.859050989151001
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901055063-g75j1p",
+    "timestamp": "2026-10-13T14:17:35.063Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8896865248680115
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901057043-8dks18",
+    "timestamp": "2026-10-13T14:17:37.043Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8564625382423401
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901059048-15duqr",
+    "timestamp": "2026-10-13T14:17:39.048Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8487226366996765
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901061072-rhe3er",
+    "timestamp": "2026-10-13T14:17:41.072Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8360167741775513
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901065240-njjvkp",
+    "timestamp": "2026-10-13T14:17:45.240Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8510417342185974
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901068067-3h9t7m",
+    "timestamp": "2026-10-13T14:17:48.067Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8573241233825684
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901070017-bi585j",
+    "timestamp": "2026-10-13T14:17:50.017Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8838019371032715
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901072117-dtv76g",
+    "timestamp": "2026-10-13T14:17:52.117Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8467975854873657
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901078036-w6t1ff",
+    "timestamp": "2026-10-13T14:17:58.036Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9124125838279724
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901080026-pjmi2y",
+    "timestamp": "2026-10-13T14:18:00.026Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8919448852539062
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901082019-z0r1lv",
+    "timestamp": "2026-10-13T14:18:02.019Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8737998008728027
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901084103-v8t4h9",
+    "timestamp": "2026-10-13T14:18:04.103Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8845895528793335
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791901090005-dz2bzw",
+    "timestamp": "2026-10-13T14:18:10.005Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8917328715324402
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975321779-92iupi",
+    "timestamp": "2026-10-14T10:55:21.779Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.49035775661468506
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975327856-h7as20",
+    "timestamp": "2026-10-14T10:55:27.856Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8752967119216919
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975346727-j40qui",
+    "timestamp": "2026-10-14T10:55:46.727Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9647895693778992
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975348821-s59j5r",
+    "timestamp": "2026-10-14T10:55:48.821Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8648014068603516
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975350887-hx7fjy",
+    "timestamp": "2026-10-14T10:55:50.887Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9381165504455566
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975352947-ypp7ru",
+    "timestamp": "2026-10-14T10:55:52.947Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.7997990250587463
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975355046-l4duwf",
+    "timestamp": "2026-10-14T10:55:55.046Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8543826937675476
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975357141-42cm0r",
+    "timestamp": "2026-10-14T10:55:57.141Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.4760887622833252
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.38980817794799805
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791975359393-zp77i8",
+    "timestamp": "2026-10-14T10:55:59.393Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.4284214973449707
+      },
+      {
+        "class": "rotten",
+        "confidence": 0.34869056940078735
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791975361516-dodt8c",
+    "timestamp": "2026-10-14T10:56:01.516Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.7722768187522888
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975363865-wn2abb",
+    "timestamp": "2026-10-14T10:56:03.865Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.838025689125061
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975366086-88ew7t",
+    "timestamp": "2026-10-14T10:56:06.086Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.610354483127594
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975368663-buqcgy",
+    "timestamp": "2026-10-14T10:56:08.663Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.6979098916053772
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975370798-dwq1qb",
+    "timestamp": "2026-10-14T10:56:10.798Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.5301497578620911
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.3845908045768738
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791975372975-bv3sl7",
+    "timestamp": "2026-10-14T10:56:12.975Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.4542396068572998
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.42154526710510254
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791975375841-dfyfam",
+    "timestamp": "2026-10-14T10:56:15.841Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8388805985450745
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.4236952066421509
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791975377936-53f8jw",
+    "timestamp": "2026-10-14T10:56:17.936Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.6989335417747498
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.46924275159835815
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791975379957-9hr977",
+    "timestamp": "2026-10-14T10:56:19.957Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8080132603645325
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975382082-mgux4j",
+    "timestamp": "2026-10-14T10:56:22.082Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.6296706199645996
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.4862706661224365
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791975384166-oi0ir6",
+    "timestamp": "2026-10-14T10:56:24.166Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.846522331237793
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975386167-jltj2a",
+    "timestamp": "2026-10-14T10:56:26.167Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8110629916191101
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975429321-37bccc",
+    "timestamp": "2026-10-14T10:57:09.321Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.6613661050796509
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.6160354614257812
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791975431378-kytuyi",
+    "timestamp": "2026-10-14T10:57:11.378Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8702012896537781
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975435490-nwxhh8",
+    "timestamp": "2026-10-14T10:57:15.490Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8335911631584167
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975437459-k3tqdj",
+    "timestamp": "2026-10-14T10:57:17.459Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.7764196991920471
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975441616-duj1da",
+    "timestamp": "2026-10-14T10:57:21.616Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9216121435165405
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975451868-kd829r",
+    "timestamp": "2026-10-14T10:57:31.868Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8119456171989441
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975453935-d6al84",
+    "timestamp": "2026-10-14T10:57:33.935Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.5698594450950623
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975456012-bkt4sb",
+    "timestamp": "2026-10-14T10:57:36.012Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.6987316012382507
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975460174-iywlxh",
+    "timestamp": "2026-10-14T10:57:40.174Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9822814464569092
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975473138-rpz4ze",
+    "timestamp": "2026-10-14T10:57:53.138Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9252274632453918
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975489459-wm8mqx",
+    "timestamp": "2026-10-14T10:58:09.459Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9168781638145447
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975491535-s1ecn9",
+    "timestamp": "2026-10-14T10:58:11.535Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8750036954879761
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975493778-j6tlxd",
+    "timestamp": "2026-10-14T10:58:13.778Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8876689076423645
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975506573-mec17c",
+    "timestamp": "2026-10-14T10:58:26.573Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9166892766952515
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975510736-uzoulf",
+    "timestamp": "2026-10-14T10:58:30.736Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9322627186775208
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975523377-3xv08j",
+    "timestamp": "2026-10-14T10:58:43.377Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9383261799812317
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975525930-8qy6kh",
+    "timestamp": "2026-10-14T10:58:45.930Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.915761411190033
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975532075-4vmwj6",
+    "timestamp": "2026-10-14T10:58:52.075Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9262714385986328
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975536220-mopgjv",
+    "timestamp": "2026-10-14T10:58:56.220Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9008144736289978
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975539246-cg32r0",
+    "timestamp": "2026-10-14T10:58:59.246Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9210799932479858
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975553298-mn0csj",
+    "timestamp": "2026-10-14T10:59:13.298Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8895476460456848
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975613290-qlb4kv",
+    "timestamp": "2026-10-14T11:00:13.290Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9968463778495789
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975647235-l1cac0",
+    "timestamp": "2026-10-14T11:00:47.235Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9141017198562622
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975724175-lf6rt0",
+    "timestamp": "2026-10-14T11:02:04.175Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8585987091064453
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975726253-3j5j2w",
+    "timestamp": "2026-10-14T11:02:06.253Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.978671133518219
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975729194-g98suw",
+    "timestamp": "2026-10-14T11:02:09.194Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.8968846797943115
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975746137-dbktur",
+    "timestamp": "2026-10-14T11:02:26.137Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9756492376327515
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975858255-0vttrb",
+    "timestamp": "2026-10-14T11:04:18.255Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.5386549234390259
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975861286-e2sxuv",
+    "timestamp": "2026-10-14T11:04:21.286Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.3772982954978943
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.36766350269317627
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791975866247-vizny7",
+    "timestamp": "2026-10-14T11:04:26.247Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.6568396091461182
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975869134-wr4f1i",
+    "timestamp": "2026-10-14T11:04:29.134Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.3449649214744568
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975876170-hcnqde",
+    "timestamp": "2026-10-14T11:04:36.170Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.6730325222015381
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975878126-zcbnvg",
+    "timestamp": "2026-10-14T11:04:38.126Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.30329108238220215
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975925241-pwbw22",
+    "timestamp": "2026-10-14T11:05:25.241Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.616264283657074
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975928324-yv77pb",
+    "timestamp": "2026-10-14T11:05:28.324Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8460328578948975
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975931187-o60231",
+    "timestamp": "2026-10-14T11:05:31.187Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.5854700803756714
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975933288-2rk6lc",
+    "timestamp": "2026-10-14T11:05:33.288Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7225615978240967
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975936219-uc716h",
+    "timestamp": "2026-10-14T11:05:36.219Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7870444059371948
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975938248-oens1m",
+    "timestamp": "2026-10-14T11:05:38.248Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8451273441314697
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975941290-8t16gw",
+    "timestamp": "2026-10-14T11:05:41.290Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7876167893409729
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975947207-dh8f1f",
+    "timestamp": "2026-10-14T11:05:47.207Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7710877656936646
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975949174-uiogwy",
+    "timestamp": "2026-10-14T11:05:49.174Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7852031588554382
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975951210-w8s27z",
+    "timestamp": "2026-10-14T11:05:51.210Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6925769448280334
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975958146-yremz4",
+    "timestamp": "2026-10-14T11:05:58.146Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9873005747795105
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975960165-ppkguw",
+    "timestamp": "2026-10-14T11:06:00.165Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9831984639167786
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975962169-7o8g2n",
+    "timestamp": "2026-10-14T11:06:02.169Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9861959218978882
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975964160-4bdugc",
+    "timestamp": "2026-10-14T11:06:04.160Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9811694025993347
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975980156-zu5etf",
+    "timestamp": "2026-10-14T11:06:20.156Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9808492064476013
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791975982127-qwzko6",
+    "timestamp": "2026-10-14T11:06:22.127Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9908180236816406
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976000180-r66dxh",
+    "timestamp": "2026-10-14T11:06:40.180Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.48850035667419434
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976004200-a7pbxb",
+    "timestamp": "2026-10-14T11:06:44.200Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.4984006881713867
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976015192-7z9dfn",
+    "timestamp": "2026-10-14T11:06:55.192Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.5795329809188843
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976028168-hp983u",
+    "timestamp": "2026-10-14T11:07:08.168Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6914055943489075
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976030244-2d1xlb",
+    "timestamp": "2026-10-14T11:07:10.244Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6964623928070068
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976039189-ub2ned",
+    "timestamp": "2026-10-14T11:07:19.189Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7101518511772156
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976057225-reqyyo",
+    "timestamp": "2026-10-14T11:07:37.225Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.5077239871025085
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976121284-3zuwot",
+    "timestamp": "2026-10-14T11:08:41.284Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.4821276068687439
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976141171-czurs1",
+    "timestamp": "2026-10-14T11:09:01.171Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.6285227537155151
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976149174-zpyt2z",
+    "timestamp": "2026-10-14T11:09:09.174Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.6636555790901184
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976205127-hiy3ui",
+    "timestamp": "2026-10-14T11:10:05.127Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9854788780212402
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976207206-e2b22a",
+    "timestamp": "2026-10-14T11:10:07.206Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.9798902273178101
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976251854-ftwc48",
+    "timestamp": "2026-10-14T11:10:51.854Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6472421884536743
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.639333188533783
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976323043-6l0twp",
+    "timestamp": "2026-10-14T11:12:03.043Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9150187969207764
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976325131-j4ies8",
+    "timestamp": "2026-10-14T11:12:05.131Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8669854402542114
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976327202-kuj6mp",
+    "timestamp": "2026-10-14T11:12:07.202Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.8251094222068787
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976891682-u3wpd7",
+    "timestamp": "2026-10-14T11:21:31.682Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9160391092300415
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976895837-zbua14",
+    "timestamp": "2026-10-14T11:21:35.837Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9399840235710144
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976897769-8wcags",
+    "timestamp": "2026-10-14T11:21:37.769Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.9470720291137695
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976899729-fb176x",
+    "timestamp": "2026-10-14T11:21:39.729Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.21077919006347656
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976901756-o6wfmb",
+    "timestamp": "2026-10-14T11:21:41.756Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8551979064941406
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976903726-9nqy0m",
+    "timestamp": "2026-10-14T11:21:43.726Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.5065973997116089
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976905756-tooldc",
+    "timestamp": "2026-10-14T11:21:45.756Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "ripe",
+        "confidence": 0.7876566648483276
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976907729-pydvnk",
+    "timestamp": "2026-10-14T11:21:47.729Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7440693378448486
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976909757-a39ati",
+    "timestamp": "2026-10-14T11:21:49.757Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6849961280822754
+      },
+      {
+        "class": "freshripe",
+        "confidence": 0.5759788751602173
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976911849-00ugu4",
+    "timestamp": "2026-10-14T11:21:51.849Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6508489847183228
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976917836-asdn42",
+    "timestamp": "2026-10-14T11:21:57.836Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7438620328903198
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6269006729125977
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976919941-26tcnq",
+    "timestamp": "2026-10-14T11:21:59.941Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6897940635681152
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5418458580970764
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976922078-3s7krt",
+    "timestamp": "2026-10-14T11:22:02.078Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6903014183044434
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.568437933921814
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976924157-3id1bf",
+    "timestamp": "2026-10-14T11:22:04.157Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6165751814842224
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5983973145484924
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976926238-bxl5t3",
+    "timestamp": "2026-10-14T11:22:06.238Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6842674016952515
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5623831152915955
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976928190-xinjbr",
+    "timestamp": "2026-10-14T11:22:08.190Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.638295590877533
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5521727800369263
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976932795-s51nhj",
+    "timestamp": "2026-10-14T11:22:12.796Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.5630374550819397
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.44824206829071045
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.44499528408050537
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976934883-b2s6e6",
+    "timestamp": "2026-10-14T11:22:14.883Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.5248301029205322
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.4635087251663208
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.4432395100593567
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976936962-kbo1x1",
+    "timestamp": "2026-10-14T11:22:16.962Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6114258766174316
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.4645828604698181
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976939035-dn2r64",
+    "timestamp": "2026-10-14T11:22:19.035Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.5927619934082031
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.4976574182510376
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976943356-qwar91",
+    "timestamp": "2026-10-14T11:22:23.356Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6615095734596252
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791976945321-tqhayn",
+    "timestamp": "2026-10-14T11:22:25.321Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7916444540023804
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7383024096488953
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976947290-qrkl8t",
+    "timestamp": "2026-10-14T11:22:27.290Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.6886894106864929
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5866953134536743
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.47035151720046997
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976963264-obudlg",
+    "timestamp": "2026-10-14T11:22:43.264Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "rotten",
+        "confidence": 0.36197447776794434
+      },
+      {
+        "class": "ripe",
+        "confidence": 0.23488491773605347
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976965215-vvxr5t",
+    "timestamp": "2026-10-14T11:22:45.215Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8035957217216492
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7402079701423645
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5817338824272156
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.55852872133255
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791976967204-4yjwoi",
+    "timestamp": "2026-10-14T11:22:47.204Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7484686970710754
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6753247976303101
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.665351927280426
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976969128-dtbmvn",
+    "timestamp": "2026-10-14T11:22:49.128Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7811334133148193
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7018226385116577
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6239479780197144
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.519374430179596
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791976971204-122pie",
+    "timestamp": "2026-10-14T11:22:51.204Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7114454507827759
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6705918312072754
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6304289698600769
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976973283-pua8l5",
+    "timestamp": "2026-10-14T11:22:53.283Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8455312252044678
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.81843101978302
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6505690813064575
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5123316049575806
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791976975356-8zo8u2",
+    "timestamp": "2026-10-14T11:22:55.356Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7883542776107788
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6886586546897888
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6702503561973572
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976984200-450fj5",
+    "timestamp": "2026-10-14T11:23:04.200Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8685418367385864
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6246710419654846
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791976986236-iucq3k",
+    "timestamp": "2026-10-14T11:23:06.236Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8651685118675232
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5850471258163452
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.466919481754303
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976988315-eucm2a",
+    "timestamp": "2026-10-14T11:23:08.315Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8607032299041748
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7565669417381287
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7544675469398499
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976990404-6khfml",
+    "timestamp": "2026-10-14T11:23:10.404Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7760956287384033
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6980481743812561
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6688183546066284
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976992371-tpkwr3",
+    "timestamp": "2026-10-14T11:23:12.371Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.782971978187561
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6799448132514954
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6642964482307434
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976994392-aj2kfx",
+    "timestamp": "2026-10-14T11:23:14.392Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7542973756790161
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7240363955497742
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6737890839576721
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976996466-n8gtqh",
+    "timestamp": "2026-10-14T11:23:16.466Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7187227010726929
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7033706307411194
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.690290093421936
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791976998520-hyddqd",
+    "timestamp": "2026-10-14T11:23:18.520Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7367604970932007
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7357549071311951
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6306396126747131
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977000634-ggzf49",
+    "timestamp": "2026-10-14T11:23:20.634Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7360553741455078
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7002965211868286
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6793966293334961
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977002714-dnj7z1",
+    "timestamp": "2026-10-14T11:23:22.714Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7244352102279663
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.72121262550354
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7185125946998596
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977004786-jvk7h5",
+    "timestamp": "2026-10-14T11:23:24.786Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7827059030532837
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6819738149642944
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6512709259986877
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977006978-dpo6q3",
+    "timestamp": "2026-10-14T11:23:26.978Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7318204641342163
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.715064525604248
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6909687519073486
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977008989-a7qxh5",
+    "timestamp": "2026-10-14T11:23:28.989Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7204961776733398
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7191405892372131
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7144009470939636
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977011033-3cqljb",
+    "timestamp": "2026-10-14T11:23:31.033Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7246191501617432
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7182156443595886
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7030463218688965
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977013459-59wjvu",
+    "timestamp": "2026-10-14T11:23:33.459Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7029401659965515
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6975492835044861
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6813186407089233
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977015504-w34e8q",
+    "timestamp": "2026-10-14T11:23:35.504Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7426067590713501
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7234362959861755
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6596836447715759
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977017532-aago0t",
+    "timestamp": "2026-10-14T11:23:37.532Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.714065670967102
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.692954957485199
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6665917634963989
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977019667-kbvz9p",
+    "timestamp": "2026-10-14T11:23:39.667Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7589415311813354
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7327226996421814
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.708132803440094
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977021748-p0uih4",
+    "timestamp": "2026-10-14T11:23:41.748Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7195664048194885
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7184039354324341
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7165647745132446
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977023833-zcv3r2",
+    "timestamp": "2026-10-14T11:23:43.833Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7402201294898987
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7310045957565308
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6994693279266357
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977025909-f6z4rd",
+    "timestamp": "2026-10-14T11:23:45.909Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7527590394020081
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7475711107254028
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7258082032203674
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977028081-ib810s",
+    "timestamp": "2026-10-14T11:23:48.081Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7248390316963196
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7203061580657959
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6644969582557678
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977030081-3ge8mi",
+    "timestamp": "2026-10-14T11:23:50.081Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7435402274131775
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7012022137641907
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6831381916999817
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977032148-f3z7c4",
+    "timestamp": "2026-10-14T11:23:52.148Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7629352807998657
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.698688268661499
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6780930161476135
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977034171-vkbhpe",
+    "timestamp": "2026-10-14T11:23:54.171Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7245732545852661
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7233976721763611
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7044534683227539
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977036184-dncmej",
+    "timestamp": "2026-10-14T11:23:56.184Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7572892308235168
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7320188283920288
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6818277835845947
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977038229-bzl20x",
+    "timestamp": "2026-10-14T11:23:58.229Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7161033153533936
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7100430727005005
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7099242210388184
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977040275-162yyk",
+    "timestamp": "2026-10-14T11:24:00.275Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7479332685470581
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7086167931556702
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6925078630447388
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977042352-8yrgva",
+    "timestamp": "2026-10-14T11:24:02.352Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7373431324958801
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7006043195724487
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6988131999969482
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977044485-5u19fs",
+    "timestamp": "2026-10-14T11:24:04.485Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7605989575386047
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6919060349464417
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6899111270904541
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977046548-oa1rd8",
+    "timestamp": "2026-10-14T11:24:06.548Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7754443287849426
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6853786110877991
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6826137900352478
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977048626-hebo44",
+    "timestamp": "2026-10-14T11:24:08.626Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7369861602783203
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7249501347541809
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6630920767784119
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977050707-j29je9",
+    "timestamp": "2026-10-14T11:24:10.707Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7629785537719727
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6888272166252136
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6497398614883423
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977052790-77e6b9",
+    "timestamp": "2026-10-14T11:24:12.790Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7408290505409241
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.739870548248291
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7137284874916077
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977054795-oipa5p",
+    "timestamp": "2026-10-14T11:24:14.795Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7494070529937744
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.677513062953949
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6661187410354614
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977056788-cl9xpx",
+    "timestamp": "2026-10-14T11:24:16.788Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7475531697273254
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7334705591201782
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6408965587615967
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977059192-o6drqg",
+    "timestamp": "2026-10-14T11:24:19.192Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7334887981414795
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7245939373970032
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7196593284606934
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977061268-7fn56c",
+    "timestamp": "2026-10-14T11:24:21.268Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7090296745300293
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7050682902336121
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.687008798122406
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977063309-0pn4eh",
+    "timestamp": "2026-10-14T11:24:23.309Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7285003662109375
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7188217043876648
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6922367215156555
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977065436-73kr6p",
+    "timestamp": "2026-10-14T11:24:25.436Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8144153356552124
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6722214221954346
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6129644513130188
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977067690-c4nu5n",
+    "timestamp": "2026-10-14T11:24:27.690Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7369424700737
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7228140830993652
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6935162544250488
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977069752-vcvyh1",
+    "timestamp": "2026-10-14T11:24:29.752Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7313095927238464
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.731179416179657
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.68012934923172
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977071829-wgjks2",
+    "timestamp": "2026-10-14T11:24:31.829Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7151342630386353
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.696662187576294
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6925098896026611
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977073793-odh9yc",
+    "timestamp": "2026-10-14T11:24:33.793Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.717807948589325
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7015550136566162
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6976479291915894
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977075828-9t9qso",
+    "timestamp": "2026-10-14T11:24:35.828Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7144148945808411
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.713713526725769
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6810224056243896
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977077836-nuxsdw",
+    "timestamp": "2026-10-14T11:24:37.836Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.749209463596344
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7210078835487366
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6940828561782837
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977079987-fnw0ye",
+    "timestamp": "2026-10-14T11:24:39.987Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7207894325256348
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7025060653686523
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6917594075202942
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977082036-k5cx4v",
+    "timestamp": "2026-10-14T11:24:42.036Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7239936590194702
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.712149977684021
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7055784463882446
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977084153-9qbbzs",
+    "timestamp": "2026-10-14T11:24:44.153Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7321935892105103
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7129183411598206
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6603813767433167
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977086166-cnaf0w",
+    "timestamp": "2026-10-14T11:24:46.166Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.738481879234314
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7102440595626831
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6867138147354126
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977088314-b82ahv",
+    "timestamp": "2026-10-14T11:24:48.314Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7727876901626587
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6834976673126221
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.66275554895401
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977090353-5mlozy",
+    "timestamp": "2026-10-14T11:24:50.353Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.732631266117096
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7168947458267212
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7078629732131958
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977092406-jnd1yf",
+    "timestamp": "2026-10-14T11:24:52.406Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7923267483711243
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6744360327720642
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.670432448387146
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977094386-yyqczu",
+    "timestamp": "2026-10-14T11:24:54.386Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7416698336601257
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7165836691856384
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7073091268539429
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977096492-i38pxg",
+    "timestamp": "2026-10-14T11:24:56.492Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7354733943939209
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7275813817977905
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6931726336479187
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977098442-7anysz",
+    "timestamp": "2026-10-14T11:24:58.442Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.724078893661499
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7010016441345215
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6966091394424438
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977100368-fjcbdn",
+    "timestamp": "2026-10-14T11:25:00.368Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7435908317565918
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7415250539779663
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7104821801185608
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977103422-u9f3xz",
+    "timestamp": "2026-10-14T11:25:03.422Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7326462864875793
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6946565508842468
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.684210479259491
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977105350-d3s1zp",
+    "timestamp": "2026-10-14T11:25:05.350Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7170109748840332
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6973264813423157
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6936401128768921
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977107267-kj8se5",
+    "timestamp": "2026-10-14T11:25:07.267Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7555751204490662
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7009088397026062
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6994186639785767
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977109177-fjbmwk",
+    "timestamp": "2026-10-14T11:25:09.177Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7309222221374512
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7247783541679382
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6247968077659607
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977111482-0vnuvl",
+    "timestamp": "2026-10-14T11:25:11.482Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7249206304550171
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7112013697624207
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7024519443511963
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977113426-fxfeey",
+    "timestamp": "2026-10-14T11:25:13.426Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7239148020744324
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6858443021774292
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6722216010093689
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977115359-zp6b32",
+    "timestamp": "2026-10-14T11:25:15.359Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8370594382286072
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6186651587486267
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977117286-j0xcdv",
+    "timestamp": "2026-10-14T11:25:17.286Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8162531852722168
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6477135419845581
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977119356-t21q6f",
+    "timestamp": "2026-10-14T11:25:19.356Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8985869288444519
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5465208292007446
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5019851922988892
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977121370-qykdp2",
+    "timestamp": "2026-10-14T11:25:21.370Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8783117532730103
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5884063839912415
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977123523-060cve",
+    "timestamp": "2026-10-14T11:25:23.523Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8573548793792725
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5447428822517395
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977125604-9yp4po",
+    "timestamp": "2026-10-14T11:25:25.604Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8644323348999023
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5417587757110596
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.518462061882019
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977127657-90tom0",
+    "timestamp": "2026-10-14T11:25:27.657Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8483613729476929
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.8101120591163635
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6925556659698486
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977129766-3sv6on",
+    "timestamp": "2026-10-14T11:25:29.766Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8400696516036987
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7684352397918701
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7489685416221619
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977131776-d770t7",
+    "timestamp": "2026-10-14T11:25:31.776Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8565654754638672
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7928502559661865
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7360603213310242
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977133753-whd90u",
+    "timestamp": "2026-10-14T11:25:33.753Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8153658509254456
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.8088562488555908
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7217283248901367
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977135836-c3we5h",
+    "timestamp": "2026-10-14T11:25:35.836Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8137268424034119
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7610041499137878
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7264038324356079
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977137758-c9l1gh",
+    "timestamp": "2026-10-14T11:25:37.758Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8455092906951904
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.8186614513397217
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7198853492736816
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977139701-ill2ut",
+    "timestamp": "2026-10-14T11:25:39.701Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8223231434822083
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7868566513061523
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7441933155059814
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977141654-laxiap",
+    "timestamp": "2026-10-14T11:25:41.654Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8553856611251831
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.825334370136261
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6987141966819763
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977143681-cmtfof",
+    "timestamp": "2026-10-14T11:25:43.681Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8055763840675354
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.8042507767677307
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7881138324737549
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977145608-ym5izc",
+    "timestamp": "2026-10-14T11:25:45.608Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8806509375572205
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.83891761302948
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6612706184387207
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977147847-76c350",
+    "timestamp": "2026-10-14T11:25:47.847Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8374373316764832
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.8099005222320557
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7084037065505981
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977149912-rsvkt7",
+    "timestamp": "2026-10-14T11:25:49.912Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8457512259483337
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.840546190738678
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7209028005599976
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977151998-3kx5fn",
+    "timestamp": "2026-10-14T11:25:51.998Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8284500241279602
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7625957131385803
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.727631688117981
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977222240-3lslh7",
+    "timestamp": "2026-10-14T11:27:02.240Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7027286291122437
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6052996516227722
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.561854898929596
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5581929087638855
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791977225423-8h08a8",
+    "timestamp": "2026-10-14T11:27:05.423Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7041923403739929
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5486087799072266
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.4977353811264038
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.47968846559524536
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791977228483-b3d8g8",
+    "timestamp": "2026-10-14T11:27:08.483Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7571455836296082
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6283687353134155
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5353418588638306
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977231208-zvfou7",
+    "timestamp": "2026-10-14T11:27:11.208Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7624889612197876
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6344214081764221
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5030036568641663
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.48164623975753784
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791977233190-dzat1w",
+    "timestamp": "2026-10-14T11:27:13.190Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6740438342094421
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5715490579605103
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.4895850419998169
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.4832478165626526
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791977235214-armirl",
+    "timestamp": "2026-10-14T11:27:15.214Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.545285701751709
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791977237279-s58ag5",
+    "timestamp": "2026-10-14T11:27:17.279Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.6284483671188354
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6204039454460144
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.607868492603302
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977239226-0o5bsq",
+    "timestamp": "2026-10-14T11:27:19.226Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.6328981518745422
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5675827860832214
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977241272-0z7rfl",
+    "timestamp": "2026-10-14T11:27:21.272Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7051270604133606
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5960919857025146
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5285874605178833
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977243361-3h8uhu",
+    "timestamp": "2026-10-14T11:27:23.361Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.9160541296005249
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.700947642326355
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977245288-sq2qpa",
+    "timestamp": "2026-10-14T11:27:25.288Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.8378759622573853
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6469827890396118
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6420469880104065
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977247259-6brb44",
+    "timestamp": "2026-10-14T11:27:27.259Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.8383585214614868
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5965208411216736
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977249249-8knixt",
+    "timestamp": "2026-10-14T11:27:29.249Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.7758253216743469
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5778220295906067
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977251246-ztlxg0",
+    "timestamp": "2026-10-14T11:27:31.246Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7043760418891907
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791977253198-oed70q",
+    "timestamp": "2026-10-14T11:27:33.198Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.9337030053138733
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791977255198-o6qm9u",
+    "timestamp": "2026-10-14T11:27:35.198Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.8970102071762085
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7834607362747192
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977257282-5hpnr5",
+    "timestamp": "2026-10-14T11:27:37.282Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshripe",
+        "confidence": 0.9079422950744629
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7827571630477905
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977259356-b4kb2h",
+    "timestamp": "2026-10-14T11:27:39.356Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.8295518755912781
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791977261436-q93xuv",
+    "timestamp": "2026-10-14T11:27:41.436Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7618046402931213
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6940528750419617
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6916142106056213
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977263386-ar33k5",
+    "timestamp": "2026-10-14T11:27:43.386Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7396722435951233
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7375367879867554
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.6787211298942566
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791977265362-vyh7aw",
+    "timestamp": "2026-10-14T11:27:45.362Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7359161376953125
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7267261147499084
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791977267351-qi1fyn",
+    "timestamp": "2026-10-14T11:27:47.351Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7511746883392334
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.7178617715835571
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791992231235-yvyvvf",
+    "timestamp": "2026-10-14T15:37:11.235Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7853929996490479
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.77312171459198
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6622812151908875
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791992233303-ake4vy",
+    "timestamp": "2026-10-14T15:37:13.303Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7846646904945374
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7727532982826233
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6733498573303223
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791992236349-xbij8m",
+    "timestamp": "2026-10-14T15:37:16.349Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.8042116761207581
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.8018239736557007
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7110176086425781
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791992238744-o3b0di",
+    "timestamp": "2026-10-14T15:37:18.744Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7204314470291138
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.7043924331665039
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5888311862945557
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791992240822-rcsflk",
+    "timestamp": "2026-10-14T15:37:20.822Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.9465779662132263
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.8837943077087402
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791992242904-amx0jp",
+    "timestamp": "2026-10-14T15:37:22.904Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6514561176300049
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5855470299720764
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791992244870-br2o6u",
+    "timestamp": "2026-10-14T15:37:24.870Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7459231615066528
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6058825850486755
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791992246851-00gjag",
+    "timestamp": "2026-10-14T15:37:26.851Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7576116323471069
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.6559054255485535
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791992248802-ra6l75",
+    "timestamp": "2026-10-14T15:37:28.802Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.7407716512680054
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.622355580329895
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791992253455-boduln",
+    "timestamp": "2026-10-14T15:37:33.455Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.5342467427253723
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5295463800430298
+      }
+    ],
+    "detectionCount": 2
+  },
+  {
+    "id": "1791992255546-gt9y4o",
+    "timestamp": "2026-10-14T15:37:35.546Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7920124530792236
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791992257615-ptuhaq",
+    "timestamp": "2026-10-14T15:37:37.615Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.7979280352592468
+      }
+    ],
+    "detectionCount": 1
+  },
+  {
+    "id": "1791992259698-g5c8at",
+    "timestamp": "2026-10-14T15:37:39.698Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.6000367999076843
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5692650675773621
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5532606244087219
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5057747960090637
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.45617151260375977
+      }
+    ],
+    "detectionCount": 5
+  },
+  {
+    "id": "1791992261770-ri1ue3",
+    "timestamp": "2026-10-14T15:37:41.770Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.604459822177887
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5946469902992249
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5863850116729736
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.4734650254249573
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992263849-myb798",
+    "timestamp": "2026-10-14T15:37:43.849Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6260827779769897
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5531765818595886
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5153261423110962
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5047997236251831
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992265793-b6juuv",
+    "timestamp": "2026-10-14T15:37:45.793Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6548190712928772
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5762271285057068
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.52614426612854
+      }
+    ],
+    "detectionCount": 3
+  },
+  {
+    "id": "1791992267718-z1zm3p",
+    "timestamp": "2026-10-14T15:37:47.718Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.5996667146682739
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5797086358070374
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5445247292518616
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.47066187858581543
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992269664-xyuex7",
+    "timestamp": "2026-10-14T15:37:49.664Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.5911003947257996
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.560630202293396
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5246343016624451
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5031206607818604
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992272011-wxdvos",
+    "timestamp": "2026-10-14T15:37:52.011Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.5865214467048645
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5815478563308716
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5766152739524841
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.49165958166122437
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.4771943688392639
+      }
+    ],
+    "detectionCount": 5
+  },
+  {
+    "id": "1791992275056-t0pi8w",
+    "timestamp": "2026-10-14T15:37:55.056Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6020782589912415
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5344836711883545
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5335965752601624
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.4996646046638489
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992277776-f9ibw1",
+    "timestamp": "2026-10-14T15:37:57.776Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.5935105681419373
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5734359622001648
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5476376414299011
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.46569085121154785
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992279821-9b0nhb",
+    "timestamp": "2026-10-14T15:37:59.821Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.5904334187507629
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.577135443687439
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5266372561454773
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5055892467498779
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992281770-hrmitl",
+    "timestamp": "2026-10-14T15:38:01.770Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.640529453754425
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5340241193771362
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.529467761516571
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.49235671758651733
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.4793331027030945
+      }
+    ],
+    "detectionCount": 5
+  },
+  {
+    "id": "1791992283730-r3g2mv",
+    "timestamp": "2026-10-14T15:38:03.730Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6109001040458679
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5326390266418457
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5174342393875122
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.4891487956047058
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.4745693802833557
+      }
+    ],
+    "detectionCount": 5
+  },
+  {
+    "id": "1791992285660-nz3k8d",
+    "timestamp": "2026-10-14T15:38:05.660Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6406562328338623
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5596362948417664
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5470328330993652
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5128228068351746
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992287702-p9bhqw",
+    "timestamp": "2026-10-14T15:38:07.702Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "unripe",
+        "confidence": 0.592586874961853
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5690943002700806
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5365676283836365
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.49640119075775146
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.4725634455680847
+      }
+    ],
+    "detectionCount": 5
+  },
+  {
+    "id": "1791992289775-7khqce",
+    "timestamp": "2026-10-14T15:38:09.775Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.598710834980011
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5740270018577576
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5468592643737793
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.49892616271972656
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992291856-urcopy",
+    "timestamp": "2026-10-14T15:38:11.856Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6047865152359009
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5487326979637146
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5438838601112366
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5241407752037048
+      }
+    ],
+    "detectionCount": 4
+  },
+  {
+    "id": "1791992293927-7ecni6",
+    "timestamp": "2026-10-14T15:38:13.927Z",
+    "image": "webcam",
+    "detections": [
+      {
+        "class": "freshunripe",
+        "confidence": 0.6256130337715149
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5586256980895996
+      },
+      {
+        "class": "unripe",
+        "confidence": 0.5190161466598511
+      },
+      {
+        "class": "freshunripe",
+        "confidence": 0.5060025453567505
+      }
+    ],
+    "detectionCount": 4
+  }
+]
